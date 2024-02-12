@@ -19,7 +19,7 @@ def antidiagonal(arr):
             result[i].append(0)
     print(result)
 
-# Approach-2
+
 
 def temp(A):
     p = len(A[0])
